@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+# Biography
+I am an experienced Neuroscientist fascinated by the analysis of data to extract valuable insights and create knowledge. I believe that knowledge and education empower people and improve our world. I love teaching and working in a team to solve complex questions.
+
+“Education is the most powerful weapon which you can use to change the world.” -Nelson Mandela
+
+# Interests
+
+- Neuroscience
+- Education
+- Artificial Intelligence
+- Genetics
+- Education
+
+
+## PhD in Neuroscience, 2013
+
+University of Freiburg
+
+## Licentiate in Biology (equivalent to Master's degree), 2008
+
+University of Porto
+
 <!--
 **amgfernandes/amgfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
