@@ -13,6 +13,10 @@ I’m currently working as Head of the Image and Data Analysis Facility (Senior 
 - Genetics
 - Education
 
+# Website
+
+You can check my personal website here: https://www.neuroeduai.com/
+
 # Education
 
 ## PhD in Neuroscience, 2013
