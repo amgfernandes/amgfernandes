@@ -1,7 +1,7 @@
 # Biography
 I am an experienced scientist fascinated by the analysis of data to extract valuable insights and create knowledge. I believe that knowledge and education empower people and improve our world. I love teaching and working in a team to solve complex questions.
 
-I’m currently working as Head of the Image and Data Analysis Facility (Senior Data Scientist) at the DZNE
+I’m currently working as Head of the Image and Data Analysis Facility at the DZNE
 
 “Education is the most powerful weapon which you can use to change the world.” -Nelson Mandela
 
