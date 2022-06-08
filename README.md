@@ -11,7 +11,6 @@ I’m currently working as Head of the Image and Data Analysis Facility at the D
 - Education
 - Artificial Intelligence
 - Genetics
-- Education
 
 # Website
 
